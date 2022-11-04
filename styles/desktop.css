@@ -1,0 +1,22 @@
+.r-side{
+    width: 100%;
+    margin-left: auto;
+}
+
+.publicidad{
+    width: 33%;
+    order: 1;
+}
+
+.privacidad{
+    width: 33%;
+    order: 3;
+}
+
+.pais{
+    margin-top: 377px;
+}
+.emision{
+    width: 34%;
+    order: 2;
+}

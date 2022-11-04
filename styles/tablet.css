@@ -1,0 +1,18 @@
+.r-side{
+    width: 100%;
+    margin-left: auto;
+}
+
+.publicidad{
+    width: 50%;
+    justify-content: flex-start;
+}
+
+.privacidad{
+    width: 50%;
+    justify-content: flex-end;
+}
+
+.pais{
+    margin-top: 327px;
+}
